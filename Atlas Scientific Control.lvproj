@@ -18,7 +18,7 @@
 		<Item Name="Calibration - Temperature.vi" Type="VI" URL="../Calibration - Temperature.vi"/>
 		<Item Name="calibration states.ctl" Type="VI" URL="../calibration states.ctl"/>
 		<Item Name="bytes at port reading count (subVI).vi" Type="VI" URL="../bytes at port reading count (subVI).vi"/>
-		<Item Name="com VISA (sub VI).vi" Type="VI" URL="../com VISA (sub VI).vi"/>
+		<Item Name="com VISA_atlas (sub VI).vi" Type="VI" URL="../com VISA_atlas (sub VI).vi"/>
 		<Item Name="Read Sensor (sub VI).vi" Type="VI" URL="../Read Sensor (sub VI).vi"/>
 		<Item Name="Serial port communication (subVI).vi" Type="VI" URL="../Serial port communication (subVI).vi"/>
 		<Item Name="Visa com cluster def (subVI).ctl" Type="VI" URL="../Visa com cluster def (subVI).ctl"/>
